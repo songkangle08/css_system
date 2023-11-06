@@ -8,7 +8,8 @@ css系统学习    基础+架构
 
 - BEM
   块、元素（_element）、修饰符（Modifier）
-  - menu__tab menu__tab--style1   menu__tab--style2
+  - menu menu--style1 menu__tab menu__tab--style1   menu__tab--style2
+  - menu menu--style2
   - 作用：命名规范、让页面结构更清晰
   - 一种命名规范
   - BEM是进阶的oocss
